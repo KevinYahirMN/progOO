@@ -37,7 +37,7 @@
 
 ## UML: diagrama de clases
 
-### El Lenguaje Unificado de Modelado (Unifield Modeling Lenguaje UML), es un lenguaje estándar para escribir planos de software, UML se puede utilizar para visualizar, especificar, construir y documentar los artefactos de un sistema que involucra una gran cantidad de software. UML se puede usar para modelar distintos tipos de sistemas como por ejemplo: sistemas de software, sistemas de hardware, y organizaciones del mundo real. UML ofrece nueve diagramas en los cuales modelar sistemas. Es un lenguaje muy expresivo,  que  cubre  todas  las vistas  necesarias  para  desarrollar  y  luego desplegar tales sistemas.                    UML es sólo un lenguaje y por tanto es tan solo una parte de un método de desarrollo  de  software
+### El Lenguaje Unificado de Modelado (Unifield Modeling Lenguaje UML), es un lenguaje estándar para escribir planos de software, UML se puede utilizar para visualizar, especificar, construir y documentar los artefactos de un sistema que involucra una gran cantidad de software. UML se puede usar para modelar distintos tipos de sistemas como por ejemplo: sistemas de software, sistemas de hardware, y organizaciones del mundo real. UML ofrece nueve diagramas en los cuales modelar sistemas. Es un lenguaje muy expresivo,  que  cubre  todas  las vistas  necesarias  para  desarrollar y luego desplegar tales sistemas.           UML es sólo un lenguaje y por tanto es tan solo una parte de un método de desarrollo de software
 
 ### El lenguaje UML comenzó a gestarse en octubre de 1994, cuando Rumbaugh se unió a la compañía Rational fundada por Booch (dos reputados investigadores en el área de metodología del software). El objetivo de ambos era unificar dos métodos que habían desarrollado: el método Booch y el OMT (Object Mode-lling Tool ). El primer borrador apareció en octubre de 1995. En esa misma época otro reputado investigador, Jacobson, se unió a Rational y se incluyeron ideas suyas; Este lenguaje se abrió a la colaboración de otras empresas para que aportaran sus ideas. Todas estas colaboraciones condujeron a la definición de la primera versión de UML
 
@@ -47,4 +47,4 @@
 
 ***
 
-![alt text](imagenes/5.png "Diagrama de clase UML")
+![alt text](imagenes/maquina.jpg "Diagrama de clase de maquina expendedora")
