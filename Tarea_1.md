@@ -47,4 +47,4 @@
 
 ***
 
-![alt text](imagenes/maquina.jpg "Diagrama de clase de maquina expendedora")
+![alt text](imagenes/maquina.JPG "Diagrama de clase de maquina expendedora")
