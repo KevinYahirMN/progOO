@@ -6,8 +6,8 @@ namespace tarea1
    class Persona
     {
         //Atributos
-        private string nombre;
-        private int edad;
+        protected string nombre;
+        protected int edad;
         //Se hacen los datos propiedad
         public string Nombre
         {
@@ -24,7 +24,7 @@ namespace tarea1
         }
 
         //Método para imprimir, void porque no retorna valor
-        public void Imprime()
+        public virtual void Imprime()
         {
             Console.WriteLine(nombre);
 
@@ -33,7 +33,7 @@ namespace tarea1
         //Sobrecarga de imprime, se llama igual, pero tiene argumentos o tipos de datos distintos
         public void Imprime(int veces)
         {
-            for (int i=0;i<=veces;i++)
+            for (int i=0;i<veces;i++)
             {
                 Imprime();
             }
@@ -56,6 +56,22 @@ namespace tarea1
             return (a.edad>b.edad);           
         }
     }
+
+    class Alumno:Persona
+    {
+    private string num_control;
+    
+    public Alumno(string nombre, int edad,
+    string n):base(nombre,edad)
+    {
+       num_control = n;
+       
+    }
+    public override void Imprime()
+    {
+        Console.WriteLine(num_control);
+    }
+    }
     class Program
     {
         static void Main(string[] args)
@@ -64,14 +80,17 @@ namespace tarea1
             List<Persona>personas=new List<Persona>();
            
             //Aquí se crean los objetos, esto se hace después de hacer el constructor en la clase Persona
-            Persona x=new Persona("Ana",46);
+            Persona p=new Persona("Ana",46);
 
             //Se agrega Ana a la lista
-            personas.Add(x);
+            personas.Add(new Alumno("kevas",19,"18212211"));
             //Igualmente, se pueden instanciar nuevos objetos dentro de una lista
-            personas.Add(new Persona("Meow",-5));
-            x.Imprime(3);
+            personas.Add(new Persona("ki",12));
+            p.Imprime(3);
+            personas[1].Imprime();
 
+            Alumno a = new Alumno("Lola", 20, "123423311");
+            a.Imprime();
         }
     }
 }
