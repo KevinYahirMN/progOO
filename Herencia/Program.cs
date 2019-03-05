@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Herencia
 {
-
-class Musico
+// esta clase se llama con .base
+abstract class Musico
 {
     public string nombre;
     public Musico(string n){
@@ -11,12 +12,21 @@ class Musico
         nombre = n;
     }
 
-    public virtual string saludo()
+public abstract string saludo();
+    
+    }
+
+     class Vocalista : Musico
+     {
+public Vocalista(string n):base(n){}
+
+public override string saludo()
     {
      return string.Format("Hola, soy {0}", nombre) ;
     }
-    }
-
+     }
+     
+     
     class Bajista : Musico
     {
         public string bajo;
@@ -25,7 +35,7 @@ class Musico
      }
      public override string saludo()
      {
-        return base.saludo() + "y soy bajista";
+        return "y soy bajista";
      }
     }
 
@@ -37,7 +47,7 @@ class Musico
         }
         public override string saludo()
         {
-            return base.saludo() + "y soy pianista";
+            return "y soy pianista";
         }
     }
 
@@ -45,14 +55,22 @@ class Musico
     {
         static void Main(string[] args)
         {
-        Musico m = new Musico("Lady gaga");
-        Bajista b = new Bajista("el rapsodia boemia ", "cereza");
-        Pianista p = new Pianista("Lucas muecas ","perfect");
+        Vocalista m = new Vocalista("Lady gaga");
+        Bajista b = new Bajista("el mayoneso ", "jejeje");
+        Pianista p = new Pianista("el calacas chidas ","perfect");
 
+        List<Musico> musicos = new List<Musico>();
+        musicos.Add(m);
+        musicos.Add(b);
+        musicos.Add(new Bajista("ayuwoki","hee hee"));
 
-        Console.WriteLine(m.saludo());
-        Console.WriteLine(b.saludo());
-        Console.WriteLine(p.saludo());
+        foreach(Musico x in musicos)
+        {
+
+            Console.WriteLine(x.saludo());
+        }
+            Console.WriteLine(m.saludo());
         }
     }
+    
 }
