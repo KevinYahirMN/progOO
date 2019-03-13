@@ -41,8 +41,8 @@ public override Int32 GetHashCode()
             Persona C = new Persona(1,"ana");
             Persona B = C;
             Console.WriteLine(A.GetHashCode());
-             Console.WriteLine(B.GetHashCode());
-              Console.WriteLine(C.GetHashCode());
+            Console.WriteLine(B.GetHashCode());
+            Console.WriteLine(C.GetHashCode());
             if (A == B)
             {
                 Console.WriteLine("Son iguales");
