@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 namespace Figura
 {
-
      class Vector2D 
     {
       public int x,y;
@@ -47,32 +46,49 @@ public override string ToString()
 
     public override void Dibuja()
     {
-        Console.WriteLine("Se dibuja un Circulo en {0} de color {1}, con un radio de {2}",position,fill, radio);
+        Console.WriteLine("Se dibuja un Circulo en {0} de color {1} con bordes {2}, con un radio de {3}"
+        ,position,fill,border, radio);
     }
 }
 
+class Triangulo : Figura
+{
+    public Triangulo(Vector2D pos):base(pos)
+    {}
+    public Triangulo():base()
+    {}
+
+    public override void Dibuja()
+    {
+        Console.WriteLine("Se dibuja un Triangulo en {0} de color {1} con bordes {2}"
+        ,position,fill,border);
+    }
+}
 class Rectangulo : Figura
 {
-    private int radio;
-   
-    public Rectangulo(Vector2D pos, int radio):base(pos)
-    {}
+    public Rectangulo(Vector2D pos):base(pos)
+    {
+        fill = "blue";
+        border = "red";
+    }
     public Rectangulo():base()
     {}
 
     public override void Dibuja()
     {
-        Console.WriteLine("Se dibuja un Rectangulo en {0} de color {1}, con un radio de {2}",position,fill, radio);
+        Console.WriteLine("Se dibuja un Rectangulo en {0} de color {1} con bordes {2}",position,fill, border);
     }
 }
     class Program
     {
         static void Main(string[] args)
         {
-            List<figuras>= new List<Figuras>();
+            List<Figura>figuras= new List<Figura>();
             figuras.Add(new Circulo());
             figuras.Add(new Rectangulo(new Vector2D(200,200) ));
-            Console.WriteLine("Hello darkness mi old friend, i come to talk with you again");
+            figuras.Add(new Triangulo(new Vector2D(150,230) ));
+                figuras.Add(new Triangulo());
+        
 
             foreach (Figura f in figuras)
             f.Dibuja();
