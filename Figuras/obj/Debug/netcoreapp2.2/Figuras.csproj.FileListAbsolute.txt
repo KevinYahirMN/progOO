@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\Figuras\obj\Debug\netcoreapp2.2\Figuras.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\Figuras\obj\Debug\netcoreapp2.2\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\Figuras\obj\Debug\netcoreapp2.2\Figuras.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\Figuras\obj\Debug\netcoreapp2.2\Figuras.AssemblyInfo.cs
+C:\Users\Kevin\progOO\Figuras\bin\Debug\netcoreapp2.2\Figuras.deps.json
+C:\Users\Kevin\progOO\Figuras\bin\Debug\netcoreapp2.2\Figuras.runtimeconfig.json
+C:\Users\Kevin\progOO\Figuras\bin\Debug\netcoreapp2.2\Figuras.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\Figuras\bin\Debug\netcoreapp2.2\Figuras.dll
+C:\Users\Kevin\progOO\Figuras\bin\Debug\netcoreapp2.2\Figuras.pdb
+C:\Users\Kevin\progOO\Figuras\obj\Debug\netcoreapp2.2\Figuras.dll
+C:\Users\Kevin\progOO\Figuras\obj\Debug\netcoreapp2.2\Figuras.pdb

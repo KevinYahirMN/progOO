@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.AssemblyInfo.cs
+C:\Users\Kevin\progOO\sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.deps.json
+C:\Users\Kevin\progOO\sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.runtimeconfig.json
+C:\Users\Kevin\progOO\sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.dll
+C:\Users\Kevin\progOO\sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.pdb
+C:\Users\Kevin\progOO\sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.dll
+C:\Users\Kevin\progOO\sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.pdb

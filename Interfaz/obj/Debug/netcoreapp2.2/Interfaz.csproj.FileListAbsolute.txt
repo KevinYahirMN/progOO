@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.AssemblyInfo.cs
+C:\Users\Kevin\progOO\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.deps.json
+C:\Users\Kevin\progOO\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.runtimeconfig.json
+C:\Users\Kevin\progOO\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.dll
+C:\Users\Kevin\progOO\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.pdb
+C:\Users\Kevin\progOO\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.dll
+C:\Users\Kevin\progOO\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.pdb

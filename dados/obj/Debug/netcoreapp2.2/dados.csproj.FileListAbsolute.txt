@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\dados\obj\Debug\netcoreapp2.2\dados.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\dados\obj\Debug\netcoreapp2.2\dados.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\dados\obj\Debug\netcoreapp2.2\dados.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\dados\obj\Debug\netcoreapp2.2\dados.AssemblyInfo.cs
+C:\Users\Kevin\progOO\dados\bin\Debug\netcoreapp2.2\dados.deps.json
+C:\Users\Kevin\progOO\dados\bin\Debug\netcoreapp2.2\dados.runtimeconfig.json
+C:\Users\Kevin\progOO\dados\bin\Debug\netcoreapp2.2\dados.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\dados\bin\Debug\netcoreapp2.2\dados.dll
+C:\Users\Kevin\progOO\dados\bin\Debug\netcoreapp2.2\dados.pdb
+C:\Users\Kevin\progOO\dados\obj\Debug\netcoreapp2.2\dados.dll
+C:\Users\Kevin\progOO\dados\obj\Debug\netcoreapp2.2\dados.pdb

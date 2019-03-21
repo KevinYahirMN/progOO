@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\tarea1\bin\Debug\netcoreapp2.2\tarea1.deps.json
+C:\Users\Kevin\progOO\tarea1\bin\Debug\netcoreapp2.2\tarea1.runtimeconfig.json
+C:\Users\Kevin\progOO\tarea1\bin\Debug\netcoreapp2.2\tarea1.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\tarea1\bin\Debug\netcoreapp2.2\tarea1.dll
+C:\Users\Kevin\progOO\tarea1\bin\Debug\netcoreapp2.2\tarea1.pdb
+C:\Users\Kevin\progOO\tarea1\obj\Debug\netcoreapp2.2\tarea1.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\tarea1\obj\Debug\netcoreapp2.2\tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\tarea1\obj\Debug\netcoreapp2.2\tarea1.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\tarea1\obj\Debug\netcoreapp2.2\tarea1.AssemblyInfo.cs
+C:\Users\Kevin\progOO\tarea1\obj\Debug\netcoreapp2.2\tarea1.dll
+C:\Users\Kevin\progOO\tarea1\obj\Debug\netcoreapp2.2\tarea1.pdb
