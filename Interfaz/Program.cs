@@ -36,8 +36,17 @@ namespace Interfaz
             
             IRenderizable contenido;
 
-           Console.WriteLine(dic.TryGetValue("pepe.png",out contenido));
-           Console.WriteLine(contenido);
+           foreach (String key in dic.Keys)
+           {
+           if (dic.TryGetValue(key,out contenido))
+               contenido.Render();
+           
+           else
+           {
+               Console.WriteLine("No se encontro");
+           }
+           }
+           
         }
     }
 }
