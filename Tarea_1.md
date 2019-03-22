@@ -49,4 +49,6 @@
 
 ### Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones.
 
-![alt text](imagenes/maquina.jpg "Diagrama de clase de maquina expendedora")
+#### La maquina expendedora tendria las capacidades normales de una maquina expendedora, como el codigo del producto, el precio del producto, soltar el producto, la cantidad de dinero que regresa (si es que se debe), etc. Solo que en esta maquina, se tendrá la opción de elegir cuantas unidades del mismo articulo se desea, en vez de solo limitarse a 1.
+
+![alt text](imagenes/maquina.JPG "Diagrama de clase de maquina expendedora")
