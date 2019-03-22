@@ -34,3 +34,7 @@
 >>>>>>> parent of e3da19c... Update Tarea_1.md
 ### *Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde si lo tenga. Menciona por que es importante y que problemas puede evitar*
 
+<<<<<<< HEAD
+=======
+![alt text](imagenes/maquina.jpg "Diagrama de clase de maquina expendedora")
+>>>>>>> parent of ca1fb27... Update Tarea_1.md
