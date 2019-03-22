@@ -45,8 +45,8 @@
 
 ## UML: diagrama de clases
 
-### El Lenguaje Unificado de Modelado (Unifield Modeling Lenguaje UML), es un lenguaje estándar para escribir planos de software, UML se puede utilizar para visualizar, especificar, construir y documentar los artefactos de un sistema que involucra una gran cantidad de software. UML se puede usar para modelar distintos tipos de sistemas como por ejemplo: sistemas de software, sistemas de hardware, y organizaciones del mundo real. UML ofrece nueve diagramas en los cuales modelar sistemas. Es un lenguaje muy expresivo,  que  cubre  todas  las vistas  necesarias  para  desarrollar  y  luego desplegar tales sistemas.                    UML es sólo un lenguaje y por tanto es tan solo una parte de un método de desarrollo  de  software
+### El Lenguaje Unificado de Modelado (Unifield Modeling Lenguaje UML), es un lenguaje estándar para escribir planos de software, UML se puede utilizar para visualizar, especificar, construir y documentar los artefactos de un sistema que involucra una gran cantidad de software. UML se puede usar para modelar distintos tipos de sistemas como por ejemplo: sistemas de software, sistemas de hardware, y organizaciones del mundo real. UML ofrece nueve diagramas en los cuales modelar sistemas. Es un lenguaje muy expresivo,  que  cubre  todas  las vistas  necesarias  para  desarrollar  y  luego desplegar tales sistemas.           UML es sólo un lenguaje y por tanto es tan solo una parte de un método de desarrollo de software
+
+### Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones.
 
 ![alt text](imagenes/maquina.jpg "Diagrama de clase de maquina expendedora")
-=======
->>>>>>> parent of e3da19c... Update Tarea_1.md
