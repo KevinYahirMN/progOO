@@ -25,5 +25,5 @@
 #### Porque dentro de las clases, es que se declaran las propiedades que tendrán los objetos dentro de ella, por lo que la abstraccion en si es simplemente tomar algunas de las propiedades, ya previamente declaradas dentro de la clase, y trabajar con las mismas.
 
 ### *Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde si lo tenga. Menciona por que es importante y que problemas puede evitar*
-=======
+
 ![alt text](imagenes/maquina.jpg "Diagrama de clase de maquina expendedora")
