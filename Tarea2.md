@@ -89,7 +89,7 @@
 
 ###
     public void Imprimir_promedio()
-    {   
+    {
     Console.WriteLine("Promedio: {0:C}", Promedio.Calcpromedio(this));
     }
 ***
@@ -136,7 +136,7 @@
 ***
 
 ### **Implementa una clase llamada Dado**
-
+###
  using System;
 
 namespace dados
