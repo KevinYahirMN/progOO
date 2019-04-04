@@ -107,8 +107,7 @@ class Rectangulo : Figura
     public override void Dibuja()
     {
         Console.WriteLine("Se dibuja un Rectangulo en {0} de color {1} con bordes {2}",position,fill, border);
-    }
-}
+    }}
     class Program
     {
         static void Main(string[] args)
