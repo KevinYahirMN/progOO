@@ -35,14 +35,13 @@ using System.Collections.Generic;
 
 namespace Figura
 {
-     class Vector2D 
+     class Vector2D
     {
       public int x,y;
       public Vector2D(int x, int y)
       {
           this.x = x; this.y = y;
       }
-
 public override string ToString()
 {
     return String.Format("{0},{1}",x,y);
@@ -52,7 +51,6 @@ public override string ToString()
 {
     public Vector2D position;
     public string fill, border;
-  
     public Figura():this(new Vector2D(100,100))
     {}
     public Figura(Vector2D pos)
