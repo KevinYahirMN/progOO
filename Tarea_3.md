@@ -30,9 +30,9 @@
 
 ### Escribe el programa de Figura como vimos en clase, donde agregues varios tipos de figuras a una lista y recorre la lista llamando a un metodo de las figuras
 
+{
 using System;
 using System.Collections.Generic;
-
 namespace Figura
 {
      class Vector2D
@@ -123,4 +123,5 @@ class Rectangulo : Figura
             f.Dibuja();
         }
     }
+}
 }
