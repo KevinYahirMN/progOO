@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\Plantillas\obj\Debug\netcoreapp2.2\Plantillas.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\Plantillas\obj\Debug\netcoreapp2.2\Plantillas.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\Plantillas\obj\Debug\netcoreapp2.2\Plantillas.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\Plantillas\obj\Debug\netcoreapp2.2\Plantillas.AssemblyInfo.cs
+C:\Users\Kevin\progOO\Plantillas\bin\Debug\netcoreapp2.2\Plantillas.deps.json
+C:\Users\Kevin\progOO\Plantillas\bin\Debug\netcoreapp2.2\Plantillas.runtimeconfig.json
+C:\Users\Kevin\progOO\Plantillas\bin\Debug\netcoreapp2.2\Plantillas.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\Plantillas\bin\Debug\netcoreapp2.2\Plantillas.dll
+C:\Users\Kevin\progOO\Plantillas\bin\Debug\netcoreapp2.2\Plantillas.pdb
+C:\Users\Kevin\progOO\Plantillas\obj\Debug\netcoreapp2.2\Plantillas.dll
+C:\Users\Kevin\progOO\Plantillas\obj\Debug\netcoreapp2.2\Plantillas.pdb

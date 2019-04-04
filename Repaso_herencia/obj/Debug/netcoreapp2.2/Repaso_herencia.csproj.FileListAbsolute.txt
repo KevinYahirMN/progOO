@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\Repaso_herencia\bin\Debug\netcoreapp2.2\Repaso_herencia.deps.json
+C:\Users\Kevin\progOO\Repaso_herencia\bin\Debug\netcoreapp2.2\Repaso_herencia.runtimeconfig.json
+C:\Users\Kevin\progOO\Repaso_herencia\bin\Debug\netcoreapp2.2\Repaso_herencia.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\Repaso_herencia\bin\Debug\netcoreapp2.2\Repaso_herencia.dll
+C:\Users\Kevin\progOO\Repaso_herencia\bin\Debug\netcoreapp2.2\Repaso_herencia.pdb
+C:\Users\Kevin\progOO\Repaso_herencia\obj\Debug\netcoreapp2.2\Repaso_herencia.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\Repaso_herencia\obj\Debug\netcoreapp2.2\Repaso_herencia.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\Repaso_herencia\obj\Debug\netcoreapp2.2\Repaso_herencia.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\Repaso_herencia\obj\Debug\netcoreapp2.2\Repaso_herencia.AssemblyInfo.cs
+C:\Users\Kevin\progOO\Repaso_herencia\obj\Debug\netcoreapp2.2\Repaso_herencia.dll
+C:\Users\Kevin\progOO\Repaso_herencia\obj\Debug\netcoreapp2.2\Repaso_herencia.pdb

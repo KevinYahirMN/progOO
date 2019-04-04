@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\Pago\bin\Debug\netcoreapp2.2\Pago.deps.json
+C:\Users\Kevin\progOO\Pago\bin\Debug\netcoreapp2.2\Pago.runtimeconfig.json
+C:\Users\Kevin\progOO\Pago\bin\Debug\netcoreapp2.2\Pago.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\Pago\bin\Debug\netcoreapp2.2\Pago.dll
+C:\Users\Kevin\progOO\Pago\bin\Debug\netcoreapp2.2\Pago.pdb
+C:\Users\Kevin\progOO\Pago\obj\Debug\netcoreapp2.2\Pago.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\Pago\obj\Debug\netcoreapp2.2\Pago.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\Pago\obj\Debug\netcoreapp2.2\Pago.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\Pago\obj\Debug\netcoreapp2.2\Pago.AssemblyInfo.cs
+C:\Users\Kevin\progOO\Pago\obj\Debug\netcoreapp2.2\Pago.dll
+C:\Users\Kevin\progOO\Pago\obj\Debug\netcoreapp2.2\Pago.pdb
