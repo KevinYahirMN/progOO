@@ -7,7 +7,7 @@ interface IAfina
      {
           void Afina();
      }
-public class Musico
+class Musico
     {
         public string nombre;
         public Musico (string n)
@@ -66,8 +66,8 @@ class Program
           musicos.Add(g);
           
           
-          foreach ( IAfina x in musicos)
-          x.Afina();
+          foreach ( Musico m in musicos)
+          (m as IAfina).Afina();
           Console.ReadKey();
      }
  }

@@ -370,8 +370,8 @@
           musicos.Add(b);
           musicos.Add(g);
 
-          foreach ( IAfina x in musicos)
-          x.Afina();
-          Console.ReadKey();
+            foreach ( Musico m in musicos)
+            (m as IAfina).Afina();
+            Console.ReadKey();
         }
     }
