@@ -3,17 +3,29 @@ using System.Collections.Generic;
 
 namespace Tarea4
 {
-     interface IAfina
+interface IAfina
      {
           void Afina();
      }
- 
-class Bajista: IAfina
+public class Musico
+    {
+        public string nombre;
+        public Musico (string n)
+
+        {
+          nombre = n;
+        }
+      public string Display()
+
+        {
+          return nombre;
+        }
+    }
+class Bajista: Musico,IAfina
 
 {
      public string instrumento;
-     public string nombre;
-     public Bajista (string n, string i )
+     public Bajista (string n, string i ):base(n)
      {
          this.nombre = n;
          this.instrumento = i;
@@ -25,11 +37,10 @@ class Bajista: IAfina
 
  }
 
-class Guitarrista:IAfina
+class Guitarrista:Musico,IAfina
 {
      public string instrumento;
-     public string nombre;
-     public Guitarrista (string n, string i )
+     public Guitarrista (string n, string i ):base(n)
      {
           this.nombre = n;
           this.instrumento = i;

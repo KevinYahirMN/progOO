@@ -315,12 +315,25 @@
     {
         void Afina();
     }
+    public class Musico
+    {
+        public string nombre;
+        public Musico (string n)
 
-    class Bajista: IAfina
+        {
+          nombre = n;
+        }
+        public string Display()
+
+        {
+          return nombre;
+        }
+    }
+
+    class Bajista:Musico,IAfina
     {
     public string instrumento;
-    public string nombre;
-    public Bajista (string n, string i )
+    public Bajista (string n, string i ):base(n)
     {
         this.nombre = n;
         this.instrumento = i;
@@ -331,11 +344,10 @@
     }
     }
 
-    class Guitarrista:IAfina
+    class Guitarrista:Musico,IAfina
     {
         public string instrumento;
-        public string nombre;
-        public Guitarrista (string n, string i)
+        public Guitarrista (string n, string i):base(n)
         {
             this.nombre = n;
             this.instrumento = i;
