@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\Excepciones\bin\Debug\netcoreapp2.2\Excepciones.deps.json
+C:\Users\Kevin\progOO\Excepciones\bin\Debug\netcoreapp2.2\Excepciones.runtimeconfig.json
+C:\Users\Kevin\progOO\Excepciones\bin\Debug\netcoreapp2.2\Excepciones.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\Excepciones\bin\Debug\netcoreapp2.2\Excepciones.dll
+C:\Users\Kevin\progOO\Excepciones\bin\Debug\netcoreapp2.2\Excepciones.pdb
+C:\Users\Kevin\progOO\Excepciones\obj\Debug\netcoreapp2.2\Excepciones.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\Excepciones\obj\Debug\netcoreapp2.2\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\Excepciones\obj\Debug\netcoreapp2.2\Excepciones.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\Excepciones\obj\Debug\netcoreapp2.2\Excepciones.AssemblyInfo.cs
+C:\Users\Kevin\progOO\Excepciones\obj\Debug\netcoreapp2.2\Excepciones.dll
+C:\Users\Kevin\progOO\Excepciones\obj\Debug\netcoreapp2.2\Excepciones.pdb
