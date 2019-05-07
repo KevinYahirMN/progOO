@@ -4,7 +4,7 @@ namespace Excepciones
 {
     class EdadIncorrectaException : Exception
     {
-        public EdadIncorrectaException(): base(error){}
+        //public EdadIncorrectaException(): base(error){}
 
         public EdadIncorrectaException(): base("Edad muy alta"){}
     }

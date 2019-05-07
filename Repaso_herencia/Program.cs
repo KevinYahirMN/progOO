@@ -37,7 +37,7 @@ namespace Repaso_herencia
             this.autor = autor;
         }
 
-        class PostUbica: Post
+        class d
         {
 
         }
@@ -68,8 +68,7 @@ namespace Repaso_herencia
             List<Post> muro = new List<Post>();
             string texto = "Paso pack";
             string autor = "babylov69";
-            muro.Add(new PostTexto(autor, texto));
-            muro.Add(new PostTexto("eloc","aver"));
+         
 
             muro[1].comentarios.Add(new Comentario("babylov69","al cine pvto xdxd"));
             muro[1].comentarios.Add(new Comentario("eloc","te la rifastes ajajaja"));

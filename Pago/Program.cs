@@ -62,9 +62,9 @@ class Efectivo: Pago
     }
 }
 
-class Credito: Pago
+class Credito
 {
-
+    
 }
 class Program
 {
