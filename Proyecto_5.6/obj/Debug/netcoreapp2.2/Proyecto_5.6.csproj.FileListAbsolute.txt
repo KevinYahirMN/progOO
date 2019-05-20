@@ -1,0 +1,11 @@
+C:\Users\Kevin\progOO\Proyecto_5.6\obj\Debug\netcoreapp2.2\Proyecto_5.6.csprojAssemblyReference.cache
+C:\Users\Kevin\progOO\Proyecto_5.6\obj\Debug\netcoreapp2.2\Proyecto_5.6.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\progOO\Proyecto_5.6\obj\Debug\netcoreapp2.2\Proyecto_5.6.AssemblyInfoInputs.cache
+C:\Users\Kevin\progOO\Proyecto_5.6\obj\Debug\netcoreapp2.2\Proyecto_5.6.AssemblyInfo.cs
+C:\Users\Kevin\progOO\Proyecto_5.6\bin\Debug\netcoreapp2.2\Proyecto_5.6.deps.json
+C:\Users\Kevin\progOO\Proyecto_5.6\bin\Debug\netcoreapp2.2\Proyecto_5.6.runtimeconfig.json
+C:\Users\Kevin\progOO\Proyecto_5.6\bin\Debug\netcoreapp2.2\Proyecto_5.6.runtimeconfig.dev.json
+C:\Users\Kevin\progOO\Proyecto_5.6\bin\Debug\netcoreapp2.2\Proyecto_5.6.dll
+C:\Users\Kevin\progOO\Proyecto_5.6\bin\Debug\netcoreapp2.2\Proyecto_5.6.pdb
+C:\Users\Kevin\progOO\Proyecto_5.6\obj\Debug\netcoreapp2.2\Proyecto_5.6.dll
+C:\Users\Kevin\progOO\Proyecto_5.6\obj\Debug\netcoreapp2.2\Proyecto_5.6.pdb
